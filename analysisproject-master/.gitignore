@@ -1,0 +1,12 @@
+*.obj
+.vscode
+.git
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.o
+StringMatching
+*.txt
+*.zip
